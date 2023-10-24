@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "text": "Which of these is not a primitive data type in JavaScript?",
+        "options": ["String", "Number", "List", "Boolean"],
+        "correctAnswer": "List",
+        "points": 5,
+        "category": "Data Types"
+    },
+    {
+        "id": 2,
+        "text": "Which function determines whether a value is an array?",
+        "options": ["isTypeOf()", "isArray()", "isValueType()", "isDataArray()"],
+        "correctAnswer": "isArray()",
+        "points": 5,
+        "category": "Array"
+    },
+    {
+        "id": 3,
+        "text": "Which method removes the last element from an array?",
+        "options": ["push()", "last()", "pop()", "shift()"],
+        "correctAnswer": "pop()",
+        "points": 5,
+        "category": "Array Methods"
+    },
+    {
+        "id": 4,
+        "text": "Which is the correct way to comment out multiple lines in JavaScript?",
+        "options": ["/*This comment */", "//This comment//", "<!--This comment-->", "--This comment--"],
+        "correctAnswer": "/*This comment */",
+        "points": 5,
+        "category": "Syntax"
+    },
+    {
+        "id": 5,
+        "text": "Which JavaScript framework uses JSX?",
+        "options": ["Angular", "Vue", "React", "Svelte"],
+        "correctAnswer": "React",
+        "points": 10,
+        "category": "Frameworks"
+    },
+    {
+        "id": 6,
+        "text": "What will 'typeof null' return?",
+        "options": ["undefined", "null", "object", "NaN"],
+        "correctAnswer": "object",
+        "points": 5,
+        "category": "Data Types"
+    },
+    {
+        "id": 7,
+        "text": "Which method transforms a JSON string into an object?",
+        "options": ["JSON.stringify()", "JSON.parse()", "JSON.toObj()", "JSON.transform()"],
+        "correctAnswer": "JSON.parse()",
+        "points": 5,
+        "category": "JSON"
+    },
+    {
+        "id": 8,
+        "text": "Which is not a valid JavaScript version?",
+        "options": ["ES5", "ES6", "ECMAScript 2015", "ESXP"],
+        "correctAnswer": "ESXP",
+        "points": 5,
+        "category": "Versions"
+    },
+    {
+        "id": 9,
+        "text": "Which method is used to decode a URL in JavaScript?",
+        "options": ["decodeURI()", "decodeURIComponent()", "unescape()", "decrypt()"],
+        "correctAnswer": "decodeURI()",
+        "points": 5,
+        "category": "BOM and DOM"
+    },
+    {
+        "id": 10,
+        "text": "Which global object is used to handle exceptions?",
+        "options": ["Error", "Exception", "Throw", "Alert"],
+        "correctAnswer": "Error",
+        "points": 5,
+        "category": "Error Handling"
+    }
+]
